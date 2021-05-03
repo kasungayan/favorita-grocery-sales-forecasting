@@ -2,6 +2,8 @@
 # ETS Forecasting script
 # Kasun Bandara, June 2020
 
+# Master branch change
+
 # @input: train_ts.txt
 # @output: ETS-forecasts.txt
 
