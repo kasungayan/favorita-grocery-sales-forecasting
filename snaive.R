@@ -2,6 +2,8 @@
 # Naive Seasonality Forecasting script
 # Kasun Bandara, June 2020
 
+# Testing branch
+
 # @input: train_ts.txt
 # @output: SNAIVE_forecasts.txt
 
